@@ -1,3 +1,4 @@
 ECHO is on.
 this is my text from pipeline 
 updated text 
+updated text 
