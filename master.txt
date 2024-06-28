@@ -2,3 +2,4 @@ ECHO is on.
 
 
 this is in private branch.this is my text from pipeline 
+this is my text from pipeline 
